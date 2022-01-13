@@ -36,8 +36,6 @@ Hello! I'm a full stack software engineer who loves to collaborate with others t
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cmoralespv&show_icons=true&count_private=true&theme=dracula" />
 </a>
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmoralespv&hide=contribs,prs)
-
 <!--
 **cmoralespv/cmoralespv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
